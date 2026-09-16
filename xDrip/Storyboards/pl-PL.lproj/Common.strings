@@ -82,7 +82,7 @@
 "common_minutes" = "mins";
 
 /// literally yes, without capital
-"yes" = "Yes";
+"yes" = "Tak";
 
 /// literally 'Cancel'
 "common_cancel" = "Cancel";
@@ -93,8 +93,6 @@
 /// white
 "white" = "white";
 
-/// WiFi
-"WiFi" = "WiFi";
 
 /// mg/dl
 "common_mgdl" = "mg/dL";
@@ -136,6 +134,8 @@
 
 /// literal translation needed
 "common_days" = "days";
+"common_landscape_comparingWithLast" = "Porównanie z ostatnimi:";
+"common_landscape_comparisonDays" = "%d dni";
 
 /// the word average
 "common_statistics_average" = "Average";

@@ -54,7 +54,7 @@
 "name" = "Name";
 
 /// literally yes, without capital
-"yes" = "Yes";
+"yes" = "是";
 
 /// literally 'Cancel'
 "common_cancel" = "Cancel";
@@ -62,8 +62,6 @@
 /// white
 "white" = "white";
 
-/// WiFi
-"WiFi" = "WiFi";
 
 /// whenever invalid value is given by user somewhere in a field
 "invalidValue" = "Invalid Value";
@@ -102,6 +100,8 @@
 
 /// literal translation needed
 "common_days" = "days";
+"common_landscape_comparingWithLast" = "与最近时段比较：";
+"common_landscape_comparisonDays" = "%d 天";
 
 /// the word average
 "common_statistics_average" = "Average";
